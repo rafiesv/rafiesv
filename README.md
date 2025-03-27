@@ -1,9 +1,9 @@
 # Hi, I'm Rafaela Silva 🖥️
 
 - 📚 Computer Science student.
-- 🌎 Brazilian, interior designer, and illustrator.
+- 🌎 Brazilian, Interior Designer, and Illustrator.
 - 💻 Python, HTML.
-- 🎨 Illustrating, reading, and coding.
+- 🎨 Illustrating, Reading, and Coding.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
