@@ -2,7 +2,6 @@
 
 - 📚 Computer Science student.
 - 🌎 Brazilian, Interior Designer, and Illustrator.
-- 💻 Python, HTML.
 - 🎨 Illustrating, Reading, and Coding.
 
 <div style="display: inline_block"><br>
